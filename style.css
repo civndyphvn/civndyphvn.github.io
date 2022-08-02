@@ -1,0 +1,30 @@
+.nav-item a
+{
+  color: pink;
+  text-decoration: none;
+}
+
+.nav-item a:hover
+{
+  color:white;
+}
+
+.name
+{
+  color:pink;
+}
+
+.bio
+{
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+
+.container-carousel
+{
+  margin-top: 20px;
+  padding:100px;
+
+
+}
